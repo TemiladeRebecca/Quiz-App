@@ -103,15 +103,15 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'React Native',
-    'Which component is used for mobile navigation in React Native?',
-    [
-      'React Navigation',
-      'React Router',
-      'Navigator API',
-      'NavigationController',
-    ],
-  ),
+  'React Native',
+  'Which command is used to run a React Native app on an Android emulator?',
+  [
+    'npx react-native run-android',
+    'npx react-native start',
+    'npx expo start',
+    'react-native build-android',
+  ],
+),
   QuizQuestion(
     'React Native',
     'Which component is used for mobile navigation in React Native?',
