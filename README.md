@@ -45,8 +45,8 @@ At the end of each quiz, users receive a **results screen** showing their perfor
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flutter-quiz-app.git
-   cd flutter-quiz-app
+   git clone https://github.com/TemiladeRebecca/Quiz_App.git
+   cd Quiz_App
    ```
 
 2. Install dependencies:
