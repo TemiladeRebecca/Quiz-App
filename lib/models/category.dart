@@ -1,4 +1,4 @@
-import 'package:quiz_app/question_category.dart';
+import 'package:quiz_app/widgets/question_category.dart';
 
 const category = [
   QuestionCategory([

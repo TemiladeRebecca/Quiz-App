@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:google_fonts/google_fonts.dart';
+
 class DetailsButton extends StatelessWidget {
 
   const DetailsButton({super.key, required this.questionCategory, required this.onTap});
@@ -22,7 +24,12 @@ class DetailsButton extends StatelessWidget {
                   borderRadius: BorderRadius.circular(30)
                 ),
               ),
-              child: Text(questionCategory, textAlign: TextAlign.center,),
+              child: Text(questionCategory,
+              textAlign: TextAlign.center, 
+              style: GoogleFonts.lato(
+                textStyle: TextStyle(fontSize: 18),
+                ),
+              ),
             ),
     );
   }

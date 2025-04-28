@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app/questions.dart';
-import 'package:quiz_app/questions_screen.dart';
-import 'package:quiz_app/quiz_questions.dart';
+import 'package:quiz_app/models/questions.dart';
+import 'package:quiz_app/screens/questions_screen.dart';
+import 'package:quiz_app/widgets/quiz_questions.dart';
 
-import 'package:quiz_app/start_screen.dart';
-import 'package:quiz_app/result_screen.dart';
-import 'package:quiz_app/question_details.dart';
+import 'package:quiz_app/screens/start_screen.dart';
+import 'package:quiz_app/screens/result_screen.dart';
+import 'package:quiz_app/widgets/question_details.dart';
 
 
 

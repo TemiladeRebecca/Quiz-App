@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:quiz_app/details_button.dart';
-import 'package:quiz_app/category.dart';
+import 'package:quiz_app/widgets/details_button.dart';
+import 'package:quiz_app/models/category.dart';
 
 
 class QuestionDetails extends StatelessWidget {
